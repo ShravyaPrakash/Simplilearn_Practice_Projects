@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Section8\Section8\bin\Debug\net6.0\Section8.exe
+C:\Users\HP\source\repos\Section8\Section8\bin\Debug\net6.0\Section8.deps.json
+C:\Users\HP\source\repos\Section8\Section8\bin\Debug\net6.0\Section8.runtimeconfig.json
+C:\Users\HP\source\repos\Section8\Section8\bin\Debug\net6.0\Section8.dll
+C:\Users\HP\source\repos\Section8\Section8\bin\Debug\net6.0\Section8.pdb
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.AssemblyInfo.cs
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.dll
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\refint\Section8.dll
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.pdb
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\Section8.genruntimeconfig.cache
+C:\Users\HP\source\repos\Section8\Section8\obj\Debug\net6.0\ref\Section8.dll
