@@ -1,0 +1,18 @@
+E:\c# assignment\webapi\dallib\bin\Debug\dallib.dll
+E:\c# assignment\webapi\dallib\bin\Debug\dallib.pdb
+E:\c# assignment\webapi\dallib\obj\Debug\dallib.csproj.AssemblyReference.cache
+E:\c# assignment\webapi\dallib\obj\Debug\dallib.csproj.CoreCompileInputs.cache
+E:\c# assignment\webapi\dallib\obj\Debug\dallib.dll
+E:\c# assignment\webapi\dallib\obj\Debug\dallib.pdb
+E:\c# assignment\webapi\dallib\bin\Debug\ballib.dll
+E:\c# assignment\webapi\dallib\bin\Debug\ballib.pdb
+E:\c# assignment\webapi\dallib\obj\Debug\dallib.csproj.CopyComplete
+C:\Users\HP\source\repos\webapi\dallib\bin\Debug\dallib.dll
+C:\Users\HP\source\repos\webapi\dallib\bin\Debug\dallib.pdb
+C:\Users\HP\source\repos\webapi\dallib\bin\Debug\ballib.dll
+C:\Users\HP\source\repos\webapi\dallib\bin\Debug\ballib.pdb
+C:\Users\HP\source\repos\webapi\dallib\obj\Debug\dallib.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\webapi\dallib\obj\Debug\dallib.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\webapi\dallib\obj\Debug\dallib.csproj.CopyComplete
+C:\Users\HP\source\repos\webapi\dallib\obj\Debug\dallib.dll
+C:\Users\HP\source\repos\webapi\dallib\obj\Debug\dallib.pdb
