@@ -1,0 +1,15 @@
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.AssemblyReference.cache
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll.config
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mphasis\Practice Project\phase_3_Project\EMS Full Stack App-Requirement\EMS Full Stack\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
